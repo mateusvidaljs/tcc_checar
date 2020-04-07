@@ -1,0 +1,7 @@
+D:\Documentos\Projetos do Visual Studio\Classes_Checar\Classes_Checar\bin\Debug\Classes_Checar.dll
+D:\Documentos\Projetos do Visual Studio\Classes_Checar\Classes_Checar\bin\Debug\Classes_Checar.pdb
+D:\Documentos\Projetos do Visual Studio\Classes_Checar\Classes_Checar\bin\Debug\DAL.dll
+D:\Documentos\Projetos do Visual Studio\Classes_Checar\Classes_Checar\bin\Debug\DAL.pdb
+D:\Documentos\Projetos do Visual Studio\Classes_Checar\Classes_Checar\obj\Debug\Classes_Checar.csprojResolveAssemblyReference.cache
+D:\Documentos\Projetos do Visual Studio\Classes_Checar\Classes_Checar\obj\Debug\Classes_Checar.dll
+D:\Documentos\Projetos do Visual Studio\Classes_Checar\Classes_Checar\obj\Debug\Classes_Checar.pdb
